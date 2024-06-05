@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4096f768-61f6-4b8b-bad3-9b6cdebe4937" name="Changes" comment="Work on day 20">
+    <list default="true" id="4096f768-61f6-4b8b-bad3-9b6cdebe4937" name="Changes" comment="Complete day 20">
+      <change afterPath="$PROJECT_DIR$/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
@@ -48,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Run",
+    "Python.scoreboard.executor": "Run",
     "Python.snake.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -85,12 +88,29 @@
       <option name="project" value="LOCAL" />
       <updated>1717548385282</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Complete day 20">
+      <option name="closed" value="true" />
+      <created>1717550392323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717550392323</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Complete day 20">
+      <option name="closed" value="true" />
+      <created>1717550416005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717550416005</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start day 20" />
     <MESSAGE value="Work on day 20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work on day 20" />
+    <MESSAGE value="Complete day 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete day 20" />
   </component>
 </project>
